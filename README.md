@@ -14,8 +14,13 @@ To install / setup
 
 Credits: Original design by JSO, with contributions from jvvg, blob8108, scmb1, -PRO- and others.
 
+Translations:
+------------
+
 Indonesian: https://github.com/Rumanti/ScratchIndoWiki-Skin
 
 Russian: https://github.com/dimon4ezzz/ScratchWikiSkin
 
 Hungarian: https://github.com/pluzsu/scratchwikiskin
+
+German: https://github.com/joooni/scratchwikiskin

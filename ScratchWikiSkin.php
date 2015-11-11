@@ -247,7 +247,7 @@ foreach ( $footerlinks as $aLink ) {
 <br>
         <p>Scratch is a project of the Lifelong Kindergarten Group at the MIT Media Lab</p>
         <br><br><br>
-        <a href="https://creativecommons.org/licenses/by-sa/3.0/de/"><img src="http://scratch-dach.info/w/images/d/dd/Cc-by-sa_340x340.png" alt="CC-BY-SA" width="100px"></a>
+        <a href="https://creativecommons.org/licenses/by-sa/3.0/"><img src="http://scratch-dach.info/w/images/d/dd/Cc-by-sa_340x340.png" alt="CC-BY-SA" width="100px"></a>
 
 </footer>
 

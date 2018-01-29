@@ -138,9 +138,9 @@ class ScratchWikiSkinTemplate extends BaseTemplate{
 				<h1><?php $this->html('title')?>
 				<div id=pagefctbtn></div>
 				<ul id=pagefctdropdown class="dropdownmenu box">
-<?				foreach ($this->data['content_actions'] as $key => $tab):?>
+<?php				foreach ($this->data['content_actions'] as $key => $tab):?>
 					<?=$this->makeListItem($key, $tab)?>
-<?				endforeach?>
+<?php				endforeach?>
 				</ul>
 				</h1>
 				<div class=box-content>
